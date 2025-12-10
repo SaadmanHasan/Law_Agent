@@ -1,8 +1,8 @@
 Video_Demo.mp4
-./vectorstore
+vectorstore
 __pycache__/
 ./data
 Agent.zip
 report.pdf
-./uploads/docs
-./uploads/images 
+uploads/docs
+uploads/images 
